@@ -79,4 +79,20 @@ java-dsa/
 
 ---
 
+Arrays/
+│
+├── README.md              ← Concept explanation
+├── Complexity.md          ← Time & Space Complexity
+├── Patterns.md            ← Sliding Window, Two Pointers, Prefix Sum...
+├── Problems/
+│   ├── Easy/
+│   ├── Medium/
+│   └── Hard/
+├── Interview-Questions.md
+└── Code/
+    ├── ArrayTraversal.java
+    ├── KadaneAlgorithm.java
+    ├── SlidingWindow.java
+    └── PrefixSum.java
+
 ## ⭐ Star this repository if you find it useful!
